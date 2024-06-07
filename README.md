@@ -20,4 +20,4 @@ If .ipynb file fails to render, you can view it [here](https://nbviewer.org/gith
 - Average duration of Movies and TV Shows over the years
 
 ## Results
-Can be found in [report.txt](https://github.com/DarrenChooo/netflix_data/blob/main/report.txt) showcasing my analysis findings
+Can be found in [my report](https://github.com/DarrenChooo/netflix_data/blob/main/report.md) showcasing my analysis findings
