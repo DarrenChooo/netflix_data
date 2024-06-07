@@ -24,12 +24,13 @@
 - `TV-MA` and `TV-14` are the top two ratings from the early 2000s.
 
 ### Country-wise Content Production
-- **United States**: Highest content producer with 2819 titles.
-- **India**: Second highest with 972 titles, but ranks fifth in TV Show production.
-- **United Kingdom**: Second in TV Show production with 213 titles.
-- **Japan**: Third in TV Show production with 169 titles.
-- **South Korea**: Fourth in TV Show production with 159 titles.
-- **Movies**:
+- **United States**: Highest content producer (2819 titles).
+- **India**: Second highest content producer (972 titles), but ranks fifth in TV Show production (79 titles).
+- **TV Show 2nd-4th**:
+  - United Kingdom: 213 titles.
+  - Japan: 169 titles.
+  - South Korea: 159 titles.
+- **Movies 2nd-5th**:
   - India: 893 titles.
   - United Kingdom: 206 titles.
   - Canada: 172 titles.
@@ -49,13 +50,13 @@
 ### Average Duration and Seasons
 - **Movies**:
   - Average duration: 99.58 minutes.
-  - 1960s and 1970s: Average duration was higher at 150 minutes.
+  - In the 1960s to 1970s, the average duration was higher at 150 minutes.
   - Duration has declined over the years from the 1960s to the 2020s.
 - **TV Shows**:
   - Average number of seasons: 1.76.
   - Most common number of seasons: 1 (1750/2677 titles).
-  - 1970s to 1990s: Higher average number of seasons (around 4 seasons).
-  - Number of seasons has declined over the years.
+  - In the 1970s to 1990s, the average number of seasons was higher at roughly 4 seasons.
+  - Number of seasons has declined the years from the 1970s to the 2020s.
 
 ## Conclusion
 This report provides an exploratory analysis of the Netflix dataset, highlighting key trends and insights about content type distribution, age ratings, country-wise production, genre distribution, and the average duration and seasons of Movies and TV Shows.
