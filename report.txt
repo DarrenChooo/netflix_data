@@ -1,2 +1,2 @@
 1. The dataset consist of 8809 rows and 25 columns of data. Out of those 25 columns, columns 12 and more are totally blank and unncessary for the analysis. Thus, removing them.
-2.
+2. We realise that the dataset has null values, where 30% of director is null, 10% of cast and country is null, and 10>= is null for date_added, rating and duration, causing our data to be inaccurate. Thus, we will replace these values with unknown.
