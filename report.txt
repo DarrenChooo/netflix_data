@@ -1,2 +1,15 @@
 1. The dataset consist of 8809 rows and 25 columns of data. Out of those 25 columns, columns 12 and more are totally blank and unncessary for the analysis. Thus, removing them.
-2. We realise that the dataset has null values, where 30% of director is null, 10% of cast and country is null, and 10>= is null for date_added, rating and duration, causing our data to be inaccurate. Thus, we will replace these values with unknown.
+2. I realise that the dataset has null values, where 30% of director is null, 10% of cast and country is null, and 10>= is null for date_added, rating and duration, causing our data to be inaccurate. Thus, I will replace these values with 'Unknown'.
+3. I found out that 70% of 8809 are Movies (6132), while the other 30% are TV Shows (2677)
+4. The distribution of age rating of content is mostly skewed towards TV-MA, TV-14, making up 5314/8809 of content. This is further suported by the trend over the years where TV-MA and TV-14 are the top 2 ratings from the early 2000s.
+    TV-MA: viewed by adults and therefore may be unsuitable for children under 17
+    TV-14: Parents strongly cautioned. May not be suitable for ages under 14. 
+5. United States holds the highest number of content produced in Netflix (2819) which is almost triple of the 2nd highest of India at 972. 
+6. While India produced many content, they are at 5th place for number of TV Shows produced, whereas United Kingdom in 2nd at 213, followed by Japan (169) and lastly South Korea (159)
+7. Most of India content are Movies (893) the 2nd highest, followed by United Kingdom at 206, Canada (172) and lastly Spain (97).
+8. The distribution of Genres across both Movies and TV Shows are similar where the top 3 is Drama, International Movies (362), Documentaries (359), and Stand-Up Comedy (334), making up the top 3 Genres in Netflix coming from Movies.
+9. On the other hand, the top 3 Genres for TV Shows are Kids'TV (220), International TV Dramas (121), and Crime TV Shows (110).
+10. The average duration for Movies is 99.58 minutes where in the 1960s and 1970s the average duration for Movies are higher at 150 minutes. Over the years from 1960s to 2020s, the duration for Movies declines.
+11. The average number of seasons for TV Shows is 1.76 seasons as the most common number of seasons per TV Show is 1 at 1750/2677. Similarly, in the 1970s to 1990s, the duration of TV Shows are higher at around 4 seasons. Over the yearS, the number of seasons for TV Shows declines.
+
+This concludes my report on Netflix Exploratory Data Analysis.
