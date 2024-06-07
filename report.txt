@@ -1,0 +1,2 @@
+1. The dataset consist of 8809 rows and 25 columns of data. Out of those 25 columns, columns 12 and more are totally blank and unncessary for the analysis. Thus, removing them.
+2.
